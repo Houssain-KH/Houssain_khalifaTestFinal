@@ -2,11 +2,11 @@
 parameters:
     database_host: 127.0.0.1
     database_port: null
-    database_name: symfony
+    database_name: Houssain_khalifaTestFinal
     database_user: root
     database_password: null
     mailer_transport: smtp
     mailer_host: 127.0.0.1
-    mailer_user: null
+    mailer_user: houssain_khalifa@hotmail.com
     mailer_password: null
     secret: e195af5d9bf37baf0e5b60e27ada3998cb53c30b
